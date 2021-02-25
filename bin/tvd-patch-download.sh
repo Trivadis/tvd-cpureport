@@ -25,7 +25,6 @@ set -o pipefail         # pipefail exit after 1st piped commands failed
 
 
 # - Patches to download -------------------------------------------------
-# TODO: - will be separated list later
 LATEST_CYCLE="JAN2021"
 OPATCH_VERSION="JAN2021"  # Downloads always if LATEST_CYCLE=OPATCH_VERSION
 # Include Patch list
